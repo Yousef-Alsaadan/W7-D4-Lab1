@@ -1,0 +1,8 @@
+.dark{
+    background-color: #1D232A;
+    color: var(--fallback-pc,oklch(var(--pc)/var(--tw-text-opacity)));
+}
+
+.asd{
+    border: 1px solid red;
+}
